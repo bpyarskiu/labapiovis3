@@ -1,3 +1,7 @@
+представлены скриншоты с выполнением большинства команд на командной строке
+README файл и скриншоты загружены с помощью Visual Studio Code
+
+
 \documentclass[9pt, a4paper]{book}
 \usepackage{multicol}
 \usepackage{geometry}
